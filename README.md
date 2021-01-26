@@ -3,7 +3,7 @@
 # [Data Science Bootcamp: Project Overview](https://github.com/Polymathing/365DataScience-Bootcamp)
 Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
 
-# [Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression)
+[Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression)
 
 • Predicting students' performance in college (GPA) based on their previous performance (SAT) and their attendance.
 
@@ -23,7 +23,7 @@ b) Species Segmentation: classical example of clustering based on a well-known d
      
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/iris-image.png?raw=true)
 
-4. [Deep Learning:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/4.%20Deep%20Learning)
+[Deep Learning:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/4.%20Deep%20Learning)
 
 a) MNIST: handwritten digit recognition using the popular Yann LeCun's "MNIST" dataset.
 
