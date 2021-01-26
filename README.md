@@ -6,6 +6,7 @@ Project intended to document my learning progress, covering mainly the topics on
 • 1. [Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression) 
      
      • Predicting students' performance in college (GPA) based on their previous performance (SAT) and their attendance.
+   ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/plotting%20data.png?raw=true)
 
 • 2. [Logistic Regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/2.%20Logistic%20Regression)
 
@@ -16,6 +17,8 @@ Project intended to document my learning progress, covering mainly the topics on
 
      a) Market Segmentation: clustering the data properly, getting insights for future predictions.
      b) Species Segmentation: classical example of clustering based on a well-known dataset, "Species Segmentation, Iris flower".
+     
+   ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/iris-image.png?raw=true)
 
 • 4. [Deep Learning:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/4.%20Deep%20Learning) 
 
