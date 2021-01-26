@@ -6,6 +6,7 @@ Project intended to document my learning progress, covering mainly the topics on
 1. [Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression) 
      
    • Predicting students' performance in college (GPA) based on their previous performance (SAT) and their attendance.
+   
    ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/plotting%20data.png?raw=true)
 
 2. [Logistic Regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/2.%20Logistic%20Regression)
