@@ -19,4 +19,4 @@ Project intended to document my learning progress, covering mainly the topics on
 
      a) MNIST: handwritten digit recognition using the popular Yann LeCun's "MNIST" dataset.  
      b) Audiobooks-Business Case: creating a machine learning algorithm, which is able to predict if a customer will buy again.
-     c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The model informs whether or not an employee can be expected to be missing for a specific number         of hours in a given work day.
+     c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The model informs whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
