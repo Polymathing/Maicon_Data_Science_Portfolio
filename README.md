@@ -1,7 +1,7 @@
 # Maicon_Portfolio
+Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
 
 # [Data Science Bootcamp: Project Overview](https://github.com/Polymathing/365DataScience-Bootcamp)
-Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
 
 • 1. [Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression) predicting students' performance in college (GPA) based on their previous performance (SAT) and their attendance.
 
