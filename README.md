@@ -15,7 +15,7 @@ a) Bank Case: logistic regression based on the marketing campaign efforts of a P
 
 b) College Admission: predicting whether a student will be admitted or not, based on previous SAT and College Admission information.
 
-3. [Cluster Analysis:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/3.%20Cluster%20Analysis)
+[Cluster Analysis:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/3.%20Cluster%20Analysis)
 
 a) Market Segmentation: clustering the data properly, getting insights for future predictions.
 
