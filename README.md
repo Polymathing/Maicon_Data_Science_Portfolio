@@ -1,7 +1,7 @@
 # Maicon_Portfolio
 
 # Data Science Bootcamp: Project Overview
-• Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning.
+• Intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
 
 • 1. Linear regression: predicting students' performance in college (GPA) based on their previous performance (SAT) and their attendance.
 
