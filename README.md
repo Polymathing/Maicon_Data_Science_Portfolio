@@ -1,6 +1,6 @@
 # Maicon_Portfolio
 
-# [Data Science Bootcamp: Project Overview](https://github.com/Polymathing/365DataScience-Bootcamp)
+# [1. Data Science Bootcamp: Project Overview](https://github.com/Polymathing/365DataScience-Bootcamp)
 Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
 
 [Linear regression:](https://github.com/Polymathing/365DataScience-Bootcamp/tree/main/1.%20Linear%20Regression)
@@ -31,7 +31,7 @@ b) Audiobooks-Business Case: creating a machine learning algorithm, which is abl
 
 c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The model informs whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
 
-# [HTML, CSS and JavaScript: Basic projects](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs)
+# [2. HTML, CSS and JavaScript: Basic projects](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs)
 
 These projects are focused on recording my learning progress vis-à-vis the fundamentals of HTML, CSS and JavaScript.
 
