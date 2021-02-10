@@ -43,6 +43,6 @@ These projects are focused on recording my learning progress vis-à-vis the fund
 
 [Identificador de idade:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Identificador%20de%20idade)
 
-• Identifies one's age providing a related picture according to their age.
+• Identifies one's age providing a related picture according to their year of birth and genre.
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Identificador%20de%20idade.png?raw=true)
