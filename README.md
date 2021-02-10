@@ -32,14 +32,17 @@ b) Audiobooks-Business Case: creating a machine learning algorithm, which is abl
 c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The model informs whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
 
 # [HTML, CSS and JavaScript: Basic projects](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs)
+
 These projects are focused on recording my learning progress vis-à-vis the fundamentals of HTML, CSS and JavaScript.
 
 [Analisando de Dados:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Analisando%20de%20Dados)
+
 • Parses numbers between 1 and 100, generating a summary with the total amount of numbers inserted, their sum, average, max and min.
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Analisador.png)
 
 [Identificador de idade:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Identificador%20de%20idade)
+
 • Identifies one's age providing a related picture according to their age.
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Identificador%20de%20idade.png)
