@@ -39,10 +39,10 @@ These projects are focused on recording my learning progress vis-à-vis the fund
 
 • Parses numbers between 1 and 100, generating a summary with the total amount of numbers inserted, their sum, average, max and min.
 
-![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Analisador.png)
+![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Analisador.png?raw=true)
 
 [Identificador de idade:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Identificador%20de%20idade)
 
 • Identifies one's age providing a related picture according to their age.
 
-![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Identificador%20de%20idade.png)
+![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Identificador%20de%20idade.png?raw=true)
