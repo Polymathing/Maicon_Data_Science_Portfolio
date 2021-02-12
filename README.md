@@ -31,7 +31,7 @@ b) Audiobooks-Business Case: creating a machine learning algorithm, which is abl
 
 c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The model informs whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
 
-<h1> 2. HTML, CSS and JavaScript: Basic projects</h1>
+# 2. HTML, CSS and JavaScript: Basic projects
 
 These projects are focused on recording my learning progress vis-à-vis the fundamentals of HTML, CSS and JavaScript.
 
