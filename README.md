@@ -35,13 +35,13 @@ c) Final Project - Absenteeism Predictor: predicting absenteeism from work. The 
 
 These projects are focused on recording my learning progress vis-à-vis the fundamentals of HTML, CSS and JavaScript.
 
-[Analisando de Dados:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Analisando%20de%20Dados)
+[Analisando de Dados:](https://polymathing.github.io/BASIC-HTML-CSS-JS-Analisador/)
 
 • Parses numbers between 1 and 100, generating a summary with the total amount of numbers inserted, their sum, average, max and min.
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Analisador.png?raw=true)
 
-[Identificador de idade:](https://github.com/Polymathing/HTML-CSS-and-JavaScript-Basic-Programs/tree/main/Identificador%20de%20idade)
+[Identificador de idade:](https://polymathing.github.io/BASIC-HTML-CSS-JS-Identificador/)
 
 • Identifies one's age providing a related picture according to their year of birth and genre.
 
