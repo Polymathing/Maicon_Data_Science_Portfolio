@@ -1,4 +1,4 @@
-# Maicon_Portfolio
+# Maicon_DataScience_Portfolio
 
 # [1. Data Science Bootcamp: Project Overview](https://github.com/Polymathing/365DataScience-Bootcamp)
 Project intended to document my learning progress, covering mainly the topics on Machine Learning and Deep Learning:
